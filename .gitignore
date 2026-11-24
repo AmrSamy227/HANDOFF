@@ -63,12 +63,7 @@ Thumbs.db
 .idea/
 .vscode/
 
-# ==========================================
-# AI development tools (local installations)
-# ==========================================
-frontend/.agent/
-frontend/.agents/
-frontend/skills/
+
 
 # ==========================================
 # Local tool configuration
